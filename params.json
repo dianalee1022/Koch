@@ -1,0 +1,6 @@
+{
+  "name": "Koch recursion simulation",
+  "tagline": "This is a testing page for a Koch recursive function simulation for my Introduction to 3D Computer Graphics course using HTML and JavaScript.",
+  "body": "### Koch Recursion\r\nThis is for assignment 1 of EECS 3431: Introduction to 3D Computer Graphics. My job was to write a simple interactive program that draws the recursive square Koch curve. Throughout this project, I learned how to transform objects using WebGL and linear algebra (more of matrices...)\r\n\r\n### Authors and Contributors\r\nThis project is created by @dianalee1022\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
